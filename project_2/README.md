@@ -1,6 +1,7 @@
 Instructions
 ***
 [Link to GitHub repo containing code](https://github.com/marabian/cs-7641/tree/master/project_2)
+
 Author: Mher Arabian (marabian6@gatech.com)
 
 1. Install *jython*
