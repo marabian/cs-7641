@@ -11,6 +11,7 @@ Author: Mher Arabian (marabian6@gatech.com)
 5. The data and plots are generated in the *data/csv/* and *data/plot* directories respectively. To view the graphs generated for the paper, navigate to the *images* directory
 
 Sources:
+
 https://github.com/pushkar/ABAGAIL
 
 http://www.sc.ehu.es/ccwbayes/docencia/kzmm/files/AG-knapsack.pdf
